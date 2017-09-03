@@ -1,0 +1,2 @@
+# datahallucinator
+Random data generator.
